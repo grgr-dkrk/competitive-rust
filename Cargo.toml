@@ -1,0 +1,12 @@
+[package]
+name = "competitive-rust"
+version = "0.0.1"
+authors = ["grgr-dkrk"]
+
+[dependencies]
+rand = "0.8.4"
+log = "0.4.19"
+
+[dev-dependencies]
+assert_approx_eq = "1.0"
+
